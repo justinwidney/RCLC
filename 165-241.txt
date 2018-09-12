@@ -1,0 +1,10 @@
+PCFM-1, Fe   , Mn   , Mg   , Ca   , MODEGAR
+GT, 1.550, 0.200, 1.140, 0.110, 10.0
+OP, Si   , Ti   , Al   , Cr   , Fe3+ , Fe2+ , Mn   , Mg   , Ca   , MODEOPX
+OP, 1.900, 0.010, 0.200, 0.000, 0.000, 0.660, 0.010, 1.230, 0.000, 10.0
+CRD, Fe   , Mn   , Mg   , MODECRD
+CRD, 0.340, 0.010, 1.660, 10.0
+BT, Si   , Ti   , Al   , Fe   , Mn   , Mg   , Na   , K    , MODEBT
+BT, 2.760, 0.240, 1.300, 0.780, 0.010, 1.780, 0.010, 0.970, 10.0
+PLAG, Ca   , Na   , K
+PLAG, 0.310, 0.670, 0.020 
